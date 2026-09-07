@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/feature-engine/feature_engine">
-    <img src="https://raw.githubusercontent.com/feature-engine/.github/main/feature_engine_logo.png" width="420" alt="Feature-engine logo">
+    <img src="../feature_engine_logo.png" width="420" alt="Feature-engine logo">
   </a>
 </p>
 
